@@ -1,12 +1,12 @@
  /***** global styles *****/
 
 a:link {
-	color: dimgray;
+	color: #9a4332;
 	text-decoration: none;
 }
 
 a:hover {
-	color: darkslategray;
+	color: #9a4332;
 	text-decoration: underline;
 }
 
@@ -19,7 +19,7 @@ a:hover {
 
 header {
 	width: 100%;
-	background-color: lightgrey;
+	background-color: #f1993c;
 	height: 4.25em;/* must match the height of the social media icons  */
 }
 
